@@ -14,12 +14,18 @@
 -
 
 - 大数据时代
-
+  - 图文课件
+  - 开篇实例
+  - 大数据全景图
+  - 大数据洞见（insight）
+  - 大数据技术框架
+  - 总结
 
 二、课程形式
 -
 
 学生通过KFCoding平台的课程入口进入，结合PPT进行视频学习。
+![](./Images/week3.7.png)
 
 三、数据情况
 -
@@ -38,5 +44,4 @@
 ![](./Images/week3.1.png)
 ![](./Images/week3.2.png)
 ![](./Images/week3.3.png)
-![](./Images/week3.4.png)
 ![](./Images/week3.5.png)
