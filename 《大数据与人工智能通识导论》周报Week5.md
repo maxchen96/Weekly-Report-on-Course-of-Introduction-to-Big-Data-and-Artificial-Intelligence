@@ -26,7 +26,7 @@
 
 学生通过KFCoding平台的课程入口进入，结合PPT进行视频学习。
 
-![](./Images/week5.8.png)
+![](./Images/Week5.8.png)
 
 三、数据情况
 -
@@ -44,10 +44,10 @@
   4. 每个账号具体的单元停留时间数据保存于[data3.csv](./scripts/data3.csv)文件中，可自行查看。
   5. 由于统计方式的特殊性，时间统计存在不可忽视的误差，但也具有指导意义。
 
-![](./Images/week5.5.png)
-![](./Images/week5.6.png)
-![](./Images/week5.7.png)
-![](./Images/week5.1.png)
-![](./Images/week5.2.png)
-![](./Images/week5.3.png)
-![](./Images/week5.4.png)
+![](./Images/Week5.5.png)
+![](./Images/Week5.6.png)
+![](./Images/Week5.7.png)
+![](./Images/Week5.1.png)
+![](./Images/Week5.2.png)
+![](./Images/Week5.3.png)
+![](./Images/Week5.4.png)
